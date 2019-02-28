@@ -1,1 +1,0 @@
-exports.VERSION = '<%= pkg.version %>'

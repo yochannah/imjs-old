@@ -1,5 +1,0 @@
---globals should
---compilers coffee:coffee-script
---timeout 3000
---ui bdd
---reporter dot
